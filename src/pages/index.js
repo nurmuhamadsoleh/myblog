@@ -22,7 +22,7 @@ const IndexPage = () => {
     <Layout>
       <SEO title="Manfaat Madu Hutan Asli" />
       <h1>Halo.</h1>
-      <h2>Selamat Datang di Web Blog Madu Abu Bakar. Tempatnya Madu Asli dan Berkualitas.</h2>
+      <h2>Selamat Datang di Website Blog Madu Abu Bakar Asli Tangerang.</h2>
 
       <p><Img fluid={data.madu.childImageSharp.fluid} /></p>
       
